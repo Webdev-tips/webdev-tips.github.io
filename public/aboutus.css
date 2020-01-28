@@ -1,0 +1,14 @@
+.textt{
+    background: rgba(105, 122, 219, 0.753);
+    border-radius: 5%;
+    border: 4rem;
+    padding: 1rem;
+    width: 12rem;
+    margin-left:3rem ;
+}
+.name{
+    margin-left:5rem ;
+    background: rgba(15, 1, 199, 0.712);
+    width:7.3rem ;
+    padding: 1px;
+}
