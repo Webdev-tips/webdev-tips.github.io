@@ -76,6 +76,22 @@ nav div a:hover{
 h1{
   margin: 1rem;
   text-align: center;
+  vertical-align: middle;
+}
+h1 button{
+  border: 1px solid green;
+  background-color: transparent;
+  color:white;
+  padding: 5px;
+  border-radius: 0.25rem  ;
+  transition: all .5s;
+}
+h1 button:hover{
+  background-color:green;
+  box-shadow: 0 3px 3px black;
+}
+h1 img{
+  width: 300px;
 }
 main{
   display: grid;
